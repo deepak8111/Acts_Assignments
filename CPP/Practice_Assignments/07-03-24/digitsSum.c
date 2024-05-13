@@ -11,12 +11,8 @@ d=n%10;
 sum=sum+d;
 n=n/10;
 }
-
 return sum;
-
-
 }
-
 
 int main()
 {
